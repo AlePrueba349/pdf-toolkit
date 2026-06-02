@@ -15,7 +15,7 @@ venv/
 /otros/
 
 node_modules/
-pdfs-ui/node_modules/
+pdf-ui/node_modules/
 dist/
 build/
 .env
