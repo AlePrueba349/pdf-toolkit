@@ -14,6 +14,12 @@ venv/
 /codigo_fuente.txt
 /otros/
 
+node_modules/
+pdfs-ui/node_modules/
+dist/
+build/
+.env
+
 # dependencies
 /node_modules
 /.pnp
